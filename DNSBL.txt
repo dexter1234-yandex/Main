@@ -1,2 +1,2 @@
-orion19.ru
-.prologtrade.ru
+prologtrade.ru
+(\.|^)orion19\.ru$
