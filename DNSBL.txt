@@ -1,3 +1,3 @@
-prologtrade.ru
-.orion19.ru
-*.orion19.ru
+! ||letaikay.net^
+||prologtrade.ru^
+||orion19.ru^
