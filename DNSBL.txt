@@ -366,3 +366,10 @@
 ||youdothet.ru^
 ||zendesk.com^
 ||zenit.kz^
+||city-tuning.ru^
+||filetransfer.io^
+||myftp.info^
+||mivz.ru^
+||ydns.eu^
+||firewall-gateway.de^
+||ngrok.io^
