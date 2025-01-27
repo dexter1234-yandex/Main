@@ -146,7 +146,6 @@
 ||glidegenius.com^
 ||golden-scalen.com^
 ||gomselmash.by^
-||google.com^
 ||gosportal.net^
 ||gribidi1.com^
 ||gribidi2.com^
@@ -356,7 +355,6 @@
 ||techitzone.ru^
 ||techmersion.com^
 ||technoguides.org^
-||telegram.org^
 ||temp.sh^
 ||tenntysjuxmz.shop^
 ||tftpd.net^
