@@ -412,3 +412,14 @@
 ||youdothet.ru^
 ||zendesk.com^
 ||zenit.kz^
+||supports-update.info^
+||updates-drive.info^
+||drive-infos.homes^
+||infosecur-date.homes^
+||my-android.homes^
+||defaces-homes.lol^
+||insurance-rus.shop^
+||ok33r.shop^
+||reallyfreegeoip.org^
+||cyberservice24.com^
+||138kasko.ru^
